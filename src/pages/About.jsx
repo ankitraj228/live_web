@@ -22,7 +22,7 @@ const developers = [
     name: "Ankit Raj",
     image: "/ankit.png", // Replace with real image
     role: "Frontend Engineer",
-    description: "Creating beautiful and user-friendly interfaces.",
+    description: "Designing elegant interfaces that delight users and enhance usability.",
     instagram: "https://www.instagram.com/ankit_jaiswal_228?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     github: "https://github.com/bob",
   },
