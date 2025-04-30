@@ -4,8 +4,12 @@ import './App.css'
 import Navbar from './component/navbar/Navbar'
 import About from './pages/About'
 import Services from './pages/Services'
-import Projects from './pages/Projects'
-import Contact from './pages/Contact'
+
+
+import Footer from './component/footer/Footer'
+import TechStack from './pages/TechStak'
+import Reviews from './pages/Projects'
+import HomePage from './pages/Homepage'
 
 function App() {
 
@@ -13,12 +17,14 @@ function App() {
     <>
        <Navbar />
       <Routes>
-        <Route path="/" element={<About />} />
+        <Route path="/" element={<HomePage />} />
+        <Route path="/about" element={<About/>} />
         <Route path="/services" element={<Services />} />
-        <Route path="/projects" element={<Projects/>} />
-        <Route path="/contact" element={<Contact/>} />
+        <Route path="/reviews" element={<Reviews/>} />
+        <Route path="/techstack" element={<TechStack/>} />
        
       </Routes>
+      <Footer/>
     </>
   )
 }
