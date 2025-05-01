@@ -35,7 +35,7 @@ const developers = [
     github: "https://github.com/bob",
   },
   {
-    name: "Anay Dhayani",
+    name: "Anay Dhyani",
     image: "/anay.png", // Replace with real image
     role: "UI/UX Designer",
     description: "Crafting intuitive and engaging user experiences.",
