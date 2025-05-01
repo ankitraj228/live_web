@@ -24,7 +24,7 @@ const developers = [
     role: "Frontend Engineer",
     description: "Designing elegant interfaces that delight users and enhance usability.",
     instagram: "https://www.instagram.com/ankit_jaiswal_228?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-    github: "https://github.com/bob",
+    github: "https://github.com/ankitraj228",
   },
   {
     name: "Pathik Sharma",
@@ -40,7 +40,7 @@ const developers = [
     role: "UI/UX Designer",
     description: "Crafting intuitive and engaging user experiences.",
     instagram: "https://www.instagram.com/anay_dhyani?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-    github: "https://github.com/bob",
+    github: "https://github.com/1anay",
   },
   {
     name: "Shivam Kumar",
